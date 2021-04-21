@@ -1,0 +1,41 @@
+body{
+	background-image:url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+	}
+#signup{
+  background-image:url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+  width: 550px;
+  border: 2px solid black;
+  padding: 40px;
+  margin: 10px;
+  TOP:190px; 
+  LEFT:400px;
+  position:absolute;
+  }
+
+
+#intro{
+	color:white;
+	TOP:100px; 
+        LEFT:650px;
+        position:absolute;
+	}
+
+input[type=text]
+{
+padding: 7px 7px;
+border-radius:10px;
+}
+
+input[type=password]
+{
+padding:7px 7px;
+border-radius:10px;
+}
+
+input[type=email]
+{
+padding:7px 7px;
+border-radius:10px;
+}

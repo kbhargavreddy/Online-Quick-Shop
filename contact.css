@@ -1,0 +1,87 @@
+
+
+body
+{
+	background-image:url("https://static.vecteezy.com/system/resources/previews/001/427/158/non_2x/abstract-classic-blue-background-free-vector.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+div
+{
+	top:30%;
+	position:fixed;
+}
+img
+{
+	position:relative;
+	top:-20%;
+	left:25%;
+	width:40%;
+	height:50%;
+	border-color: 4px solid grey;
+	border-radius: 65px  0px 65px 0px;
+}
+.person1
+{
+	background-color:rgb(0,191,255,0.6);
+	top:40%;
+	left:5%;
+	width:25%;
+	height:50%;
+	border-radius: 0px 75px 0px 75px;
+}
+.person2
+{
+	background-color:rgb(244,164,96,0.6);
+	left:37.5%;
+	top:40%;
+	width:25%;
+	height:50%;
+	border-radius: 0px 75px 0px 75px;;
+}
+.person3
+{
+	background-color:rgb(50,205,50,0.6);
+	left:70%;
+		top:40%;
+	width:25%;
+	height:50%;
+	border-radius: 0px 75px 0px 75px;
+}
+.person1:hover
+{
+	box-shadow: 5px 5px 18px 10px white;
+	left:2.5%;
+	top:35%;
+	width:30%;
+	height:60%;
+}
+.person2:hover
+{
+	box-shadow: 5px 5px 18px 10px white;
+	left:35%;
+	top:35%;
+	width:30%;
+	height:60%;	
+}
+.person3:hover
+{
+	box-shadow: 5px 5px 18px 10px white;
+	left:67.5%;
+	top:35%;
+	width:30%;
+	height:60%;	
+}
+span
+{   position:absolute;
+	top:40%;
+	left:15%;
+	color: white;
+	font-size:18px;
+	font-family:sans-serif;
+}
+a
+{
+	color:black;
+	text-decoration:none;
+}
